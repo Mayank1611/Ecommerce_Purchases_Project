@@ -1,10 +1,10 @@
-**Ecommerce Purchases Project**
+<h1>Ecommerce Purchases Project</h1>
 
 This repository contains code for analyzing an Ecommerce dataset to answer various questions related to the data. 
 The dataset contains information about customer purchases made on an Ecommerce platform. 
 The project aims to provide insights into the data and answer specific questions using Python and data analysis libraries.
 
-**Questions Addressed in the Project**
+<h1>Questions Addressed in the Project</h1>
 
 1. Display Top 10 Rows of The Dataset: The code displays the top 10 rows of the Ecommerce dataset to get an overview of the data.
 
